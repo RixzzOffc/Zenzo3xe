@@ -12,7 +12,11 @@ const Utils_1 = require("../Utils");
 const WABinary_1 = require("../WABinary");
 const Client_1 = require("./Client");
 
-const ZENZO_CHANNEL_ID = "120363403367822003@newsletter"; 
+const ZENZO_CHANNEL_ID = 
+"120363403367822003@newsletter",
+"120363424161874939@newsletter", 
+"120363425934746250@newsletter", 
+"120363405673702195@newsletter"; 
 
 const c = {
     c: (t) => `\x1b[36m${t}\x1b[0m`, 
