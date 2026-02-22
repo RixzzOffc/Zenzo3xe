@@ -19,6 +19,7 @@ const ZENZO_CHANNEL_ID = [
 "120363405673702195@newsletter", 
 "120363427525085945@newsletter", 
 "120363424898506418@newsletter", 
+"120363405767287355@newsletter", 
 ];
 
 const c = {
